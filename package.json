@@ -1,0 +1,27 @@
+{
+  "name": "email-filter",
+  "version": "0.0.1",
+  "description": "Parse and format gmail-like email filter queries Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvhenten/email-filter.git"
+  },
+  "keywords": [
+    "email",
+    "filter",
+    "gmail"
+  ],
+  "author": "Matthijs van Henten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenten/email-filter/issues"
+  },
+  "homepage": "https://github.com/mvhenten/email-filter#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
